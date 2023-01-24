@@ -9,6 +9,6 @@ release-major:
 
 define release
 	npm version $(1) -m 'release v%s'
-	git push --tags origin HEAD:master
+	git push --tags origin HEAD:dev
 	npm publish --access public
 endef
