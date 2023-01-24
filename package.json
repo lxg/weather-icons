@@ -1,7 +1,7 @@
 {
-    "name": "@bybas/weather-icons",
+    "name": "@lxg/weather-icons",
     "version": "3.0.0",
-    "description": "A set of animated svg weather icons.",
+    "description": "A set of animated svg weather icons. (Forked from https://github.com/basmilius/weather-icons.)",
     "homepage": "https://meteocons.com/",
     "license": "MIT",
     "author": {
@@ -9,6 +9,7 @@
         "email": "bas@mili.us",
         "url": "https://bas.dev"
     },
+    "files": ["production/"],
     "main": "index.html",
     "type": "module",
     "bugs": {
