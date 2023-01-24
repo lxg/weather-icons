@@ -1,6 +1,6 @@
 {
     "name": "@lxg/weather-icons",
-    "version": "3.1.0",
+    "version": "3.0.0",
     "description": "A set of animated svg weather icons. (Forked from https://github.com/basmilius/weather-icons.)",
     "homepage": "https://meteocons.com/",
     "license": "MIT",
